@@ -1,10 +1,10 @@
-# Note
+# Telegram Permanent Files Store Bot
 
-## Anyone Deploy in Render. Please Select Environment Type Python3 Not Docker...
+## Note
 
-## Then Paste Start Command Text (Found in run cmd.txt file)
+# Anyone Deploy in Render. Please Select Environment Type Python3 Not Docker...
 
-### Telegram Permanent Files Store Bot
+# Then Paste Start Command Text (Found in run cmd.txt file)
 
 ### Features:
 - In PM Just Forward or Send any file it will save on Database & give you the Access Link.
